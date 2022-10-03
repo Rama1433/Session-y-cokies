@@ -1,0 +1,15 @@
+.verde-claro__body{
+    background-color: rgb(120, 183, 120);
+}
+
+.gris__body{
+    background-color: gray;
+}
+
+.celeste__body{
+    background-color: aquamarine;
+}
+
+h1, h2, a{
+    color: black;
+}

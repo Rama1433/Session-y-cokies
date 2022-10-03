@@ -1,0 +1,14 @@
+<% if (user.color=== 'verde-claro') { %>
+    <body class="verde-claro__body">
+    <% } else if (user.color=== 'gris'){ %>
+        <body class="gris__body">
+        <% } else if (user.color=== 'celeste') { %>
+            <body class="celeste__body">
+            <% } else {%>
+                <body class="ninguno_body" >
+                <% } %>
+                <h1>Hola Usuario <%= user.name  %>  </h1>
+                <h2>
+                 Tu color es: <%= user.color %>
+                </h2>
+        
