@@ -14,9 +14,7 @@ module.exports = {
 
     olvidar : (req, res) =>{
         const user = req.session.userLogin
-        return res.send(req.session)
-        req.session.userLogin.color = null
-        return res.redirect('principal')
+        return res.redirect('/')
     },
     logout: (req,res) => {
         res.render('salir')
