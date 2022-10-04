@@ -16,5 +16,23 @@
       "nombre": "Pumas",
       "email": "ramacicarelli2001@gmail.com",
       "color": "Celeste"
+   },
+   {
+      "id": 4,
+      "nombre": "tres",
+      "email": "ramacicarelli2001@gmail.com.jdjdjd",
+      "color": "Celeste"
+   },
+   {
+      "id": 5,
+      "nombre": "Pumas",
+      "email": "ramacicarelli2001@gmail.com.llll",
+      "color": "Ninguno"
+   },
+   {
+      "id": 6,
+      "nombre": "aa",
+      "email": "ramacicarelli2001@gmail.com.asd",
+      "color": "Gris"
    }
 ]

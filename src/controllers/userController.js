@@ -18,4 +18,7 @@ module.exports = {
         req.session.userLogin.color = null
         return res.redirect('principal')
     },
+    logout: (req,res) => {
+        res.render('salir')
+}
 }
