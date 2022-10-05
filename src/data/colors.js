@@ -1,1 +1,1 @@
-module.exports = ['verde','gris','celeste']
+module.exports = ['Naranja','Gris','Celeste']
